@@ -4,7 +4,7 @@ app to hold a key pressed
 This app currently only holds the "F13" key pressed. This is not yet configurable, but coming soon.
 
 ## Usage
-![img.png](ScreenShots\ss1.jpg)
+![screen-shot](ScreenShots/ss1.jpg?raw=true "Screen Shot")
 
 - On - means the key is held down
 - Off - means the key is not held down
